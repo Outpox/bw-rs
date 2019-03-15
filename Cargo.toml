@@ -1,0 +1,8 @@
+[package]
+name = "bw-rs-cli"
+version = "0.1.0"
+authors = ["Outpox <contact@guillaumemigeon.fr>"]
+edition = "2018"
+
+[dependencies]
+clap = "2.32.0"
